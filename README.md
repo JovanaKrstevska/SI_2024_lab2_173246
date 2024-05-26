@@ -1,7 +1,7 @@
 # Втора лабораториска вежба по Софтверско инженерство
 ## Јована Крстевска индекс 173246
 
-##Control Flow Graph
+## Control Flow Graph
 
 ![image](https://github.com/JovanaKrstevska/SI_2024_lab2_173246/assets/100038564/3617c328-e3f7-4511-8824-e68c9af4cd0d)
 
